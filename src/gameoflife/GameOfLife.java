@@ -10,6 +10,7 @@ package gameoflife;
  *
  * @author malud0519
  */
+import javax.swing.;
 public class GameOfLife {
 
     /**
